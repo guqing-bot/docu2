@@ -5,7 +5,7 @@ description: Description of your new file.
 
 # Mintlify Starter Kit
 
-Use the starter kit to get your docs deployed and ready to customize.2234123
+Use the starter kit to get your docs deployed and ready to customize.22--->hello
 
 Click the green **Use this template** button at the top of this repo to copy the Mintlify starter kit. The starter kit contains examples with
 
